@@ -1,0 +1,73 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    color: purple;
+}
+#logo{
+    width: 70%;
+    display: block;
+    margin-top: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+
+li {
+    text-align: center;
+    padding: 5px;
+    margin: 2%;
+    font-size: 200%;
+  }
+
+a{
+    text-decoration:none;
+    color: purple;
+}
+
+#navBar{
+    margin-top: 5%;
+}
+
+#content{
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 10%;
+}
+
+#blackMamba{
+    margin-top: 7%;
+    margin-bottom: 3%;
+}
+
+#forever{
+    margin-bottom: 3%;
+}
+
+.bmamba{
+    width: 1000px;
+}
+
+.frvr{
+    width: 1000px;
+}
+
+.nl{
+    width: 1000px;
+}
+
+.footer{
+    text-align: center;
+    color: white;
+   
+}
+
+.footerLogo{
+    width: 200px
+}
